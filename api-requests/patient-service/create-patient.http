@@ -3,8 +3,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "John Doe with billing account and some kafka knowledge",
-  "email": "test_billing_account_with_kafka1244@example.com",
+  "name": "John Doe kafka test",
+  "email": "test_kafka@example.com",
   "address": "123 Main Street22",
   "dateOfBirth": "1995-09-19",
   "registeredDate": "2024-01-28"
